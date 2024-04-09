@@ -1,0 +1,4 @@
+train: /Users/swatea/Developer/hackathon_srm/helmet_dataset/train
+val: /Users/swatea/Developer/hackathon_srm/helmet_dataset/valid
+nc: 1  
+names: ["helmet"]  

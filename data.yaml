@@ -1,0 +1,6 @@
+train: /Users/swatea/Developer/hackathon_srm/dataset/train
+val: /Users/swatea/Developer/hackathon_srm/dataset/valid
+
+
+nc: 1  
+names: ["license_plate"]  
